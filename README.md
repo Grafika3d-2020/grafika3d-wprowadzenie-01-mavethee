@@ -1,2 +1,2 @@
-# Grafika3d
-Grafika 3d i animacja komputerowa - kółko
+# 3D Grapthics Introduction - Marcin Mitura
+Introduction to 3D Grapthics and animations
